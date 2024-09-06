@@ -41,18 +41,18 @@ div {
 }
 
 /* Color */
-.bg-red {
+.red {
     background-color: #e74c3c;
 }
 
-.bg-green{
+.green{
     background-color: #1abc9c;
 }
 
-.bg-blue {
+.blue {
     background-color: #3498db;
 }
 
-.bg-yellow {
+.yellow {
     background-color: #f1c40f;
 }
